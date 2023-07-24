@@ -1,0 +1,44 @@
+body{
+    background-image:url("register1.png");
+}
+.register{
+    margin-top: 10%;
+    padding-left: 40%;
+    border-radius:70px;
+
+}
+.inputbox1{
+    border-radius: 20px;
+    height:30px;
+}
+.inputbox2{
+    border-radius: 20px;
+    height:30px;
+}
+.inputbox3{
+    border-radius: 20px;
+    height:30px;
+    width:335px;
+}
+.inputbox4{
+    border-radius: 20px;
+    height:30px;
+    width:335px;
+}
+.inputbox5{
+    border-radius: 20px;
+    height:30px;
+    width:335px;
+}
+
+.check{
+    padding-left: 40%;
+    color: aliceblue;
+}
+.button{
+    margin-left: 40%;
+    border-radius:20px;
+    padding:10px 80px 10px 80px;
+    background-color:darkcyan;
+    width: 335px;
+}
